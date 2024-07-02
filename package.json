@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "time test for ctac",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Nich Holcomb",
+  "license": "ISC",
+  "type": "module"
+}
